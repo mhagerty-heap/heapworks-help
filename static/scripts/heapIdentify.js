@@ -8,7 +8,7 @@ setTimeout(function(){  // set a 1 second timeout to wait for heap to load, not 
   } else {
     window.heap.identify(heapIdentityQueryString);
     console.log("heapIdentity query string found from referring domain");
-    console.log("Setting Heap identity on https://play-digital-merch-documentation.vercel.app/ to: " + heapIdentityQueryString);
+    console.log("Setting Heap identity on https://heapworks-help.vercel.app/ to: " + heapIdentityQueryString);
     window.heap.identify(heapIdentityQueryString);
   }
 }, 1000);
