@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Tutorial Intro
 
-Let's discover **Play in less than 5 minutes**.
+Let's discover **ServiceDesk in less than 5 minutes**.
 
 ## Getting Started
 
@@ -12,7 +12,7 @@ Get started by **adding our tag to your site**.
 
 ### What you'll need
 
-- Play code snippet
+- ServiceDesk code snippet
   - Place inside the div of you choosing.
 
 ## Start your site

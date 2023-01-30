@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Play was designed from the ground up to be easily installed and
+        ServiceDesk was designed from the ground up to be easily installed and
         used to get your products up and running quickly.
       </>
     ),
@@ -18,16 +18,16 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Play lets you focus on your strategy, and we&apos;ll do the boring chores.
+        ServiceDesk lets you focus on your strategy, and we&apos;ll do the boring chores.
       </>
     ),
   },
   {
-    title: 'Powered by Play',
+    title: 'Powered by ServiceDesk',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your Play instance by using extensible code. We've done this before...it's pretty easy!
+        Extend or customize your ServiceDesk instance by using extensible code. We've done this before...it's pretty easy!
       </>
     ),
   },

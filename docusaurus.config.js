@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Play Documentation',
+  title: 'ServiceDesk Documentation',
   tagline: 'We make your life easy!',
-  url: 'https://play-digital-merch-documentation.vercel.app/',
+  url: 'https://heapworks-help.vercel.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -61,9 +61,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Play',
+        title: 'ServiceDesk',
         logo: {
-          alt: 'Play Site Logo',
+          alt: 'ServiceDesk Site Logo',
           src: 'img/play_favicon.svg',
         },
         items: [
@@ -114,17 +114,17 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Play Marketing Website',
+                label: 'ServiceDesk Marketing Website',
                 to: 'https://play-digital-merch.vercel.app/main.html',
               },
               {
-                label: 'Play Sign In',
+                label: 'ServiceDesk Sign In',
                 to: 'https://play-digital-merch.vercel.app/signin.html',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Play Software. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} ServiceDesk Software. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
