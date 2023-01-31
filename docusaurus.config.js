@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/play_favicon.png',
 
-  // GitHub pages deployment config.  
+  // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
@@ -64,7 +64,7 @@ const config = {
         title: 'ServiceDesk',
         logo: {
           alt: 'ServiceDesk Site Logo',
-          src: 'img/play_favicon.svg',
+          src: 'img/play_favicon.png',
         },
         items: [
           {
@@ -115,11 +115,11 @@ const config = {
             items: [
               {
                 label: 'ServiceDesk Marketing Website',
-                to: 'https://play-digital-merch.vercel.app/main.html',
+                to: 'https://heapworks.vercel.app/main.html',
               },
               {
                 label: 'ServiceDesk Sign In',
-                to: 'https://play-digital-merch.vercel.app/signin.html',
+                to: 'https://heapworks.vercel.app/signin.html',
               },
             ],
           },
